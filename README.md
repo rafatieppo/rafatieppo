@@ -16,8 +16,10 @@ Rafael Tieppo has a degree in Agricultural Engineering from the State University
 
 ### Open-source Projects
 
+- **Linux:** [debian-linux](https://github.com/rafatieppo/debian_linux)
 - **Python packages:** [lucyLattes](https://github.com/rafatieppo/lucylattes) |
 - **Bash:** [funcoeszz](https://github.com/funcoeszz/funcoeszz)
+
 ---
 
 ### Latest Blog Posts
